@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-ten-pearl-22.vercel.app/](https://my-portfolio-ten-pearl-22.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, React Native**
+- 💬 Ask me about **React.js, JavaScript, React Native, Next.js**
 
 - 📫 How to reach me **humnashin9955@gmail.com**
 
