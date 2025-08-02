@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at (https://my-portfolio-ten-pearl-22.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://my-portfolio-nu-two-12.vercel.app/)
 
 - 💬 Ask me about **React.js, JavaScript, React Native, Next.js**
 
