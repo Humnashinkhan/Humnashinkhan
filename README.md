@@ -1,7 +1,6 @@
 ![logo](https://github.com/Humnashinkhan/Humnashinkhan/blob/main/header-image.png)
 <h1 align="center">Hi 👋, I'm Humnashin Khan</h1>
-<h3 align="center">Full Stack Developer (Fresher) | Frontend Focus (MERN) <br/> Exploring AI/ML & AI Automation (n8n, workflows, integrations) <br/> Building scalable web apps & intelligent automation solutions <br/>
-Open to Frontend / Full Stack / AI Automation roles</h3>
+<h3 align="center">Full Stack Developer (Fresher) | Frontend Focus (MERN) <br/> Exploring AI/ML & AI Automation (n8n, workflows, integrations) <br/> Building intelligent automation solutions <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Python, LangChain, Machine Learning, LLM, Node**
